@@ -53,6 +53,7 @@ body{
 .item{
     max-width: 300px;
     padding: 10px;
+    border: 2px solid transparent;
 }
 .item:hover{
     border: 2px solid black;
